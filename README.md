@@ -210,5 +210,12 @@ This project isn't about replacing support agents. It answers a simpler operatio
 
 ---
 Built with Python, Scikit-learn, FastAPI, Gmail API, SQLite, and Streamlit.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77ddf7ed-e6da-4b50-b78e-d3c1eae78524" />
+
+<img width="1380" height="873" alt="Screenshot (1212)" src="https://github.com/user-attachments/assets/f9d04474-6976-4848-a563-3d9a161fec68" />
+
+<img width="1486" height="890" alt="Screenshot (1213)" src="https://github.com/user-attachments/assets/7580470e-024a-4dd4-a4f1-ebf35d426ca0" />
+
+<img width="1608" height="884" alt="Screenshot (1214)" src="https://github.com/user-attachments/assets/5e879549-bd9e-4168-bfcc-5cafb7b98587" />
+
+
 
